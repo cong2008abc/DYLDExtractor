@@ -15,6 +15,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		494128E628655C51008AB769 /* Extractor */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Extractor; path = Foundation/Extractor; sourceTree = "<group>"; };
+		494128E728655C65008AB769 /* Colorful */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Colorful; path = External/Colorful; sourceTree = "<group>"; };
 		500BF7152852EC350045808D /* DYLDExtractor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DYLDExtractor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		500BF7182852EC350045808D /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		500BF71A2852EC350045808D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -66,6 +68,8 @@
 		5095FF972852F33100A67E3B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				494128E728655C65008AB769 /* Colorful */,
+				494128E628655C51008AB769 /* Extractor */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
